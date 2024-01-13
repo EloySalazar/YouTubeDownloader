@@ -16,4 +16,16 @@ This script downloads youtube videos through pytube module.
     git clone https://github.com/EloySalazar/YouTubeDownloader.git
     ```
 
+- Install the required dependencies.
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+- Run the app.
+
+    ```
+    python main.py
+    ```
+
 - Use Visual Studio Code to edit the files in this repository.
